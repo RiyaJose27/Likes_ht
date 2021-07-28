@@ -1,0 +1,164 @@
+nav {
+    background-color: black ;
+    color: white;
+    display: flex;
+    padding: 1em;
+    margin-bottom: 20px;
+}
+.container {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin: 0 auto;
+    gap: 1.5em;
+}
+
+
+.box1 {
+    border: 2px solid grey;
+    margin-bottom: 20px;
+}
+
+.card-body1 {
+    padding: 1.5em;
+}
+
+.user {
+    width: 46px;
+    border-radius: 50%;
+}
+
+main {
+    flex: 1;
+    align-self: flex-start;
+}
+h1 {
+    text-align: center;
+}
+
+.card-body2 {
+    display: flex;
+}
+
+.lek {
+    display: flex;
+    height: 40px;
+    gap: 1.5em;
+}
+
+/* end of box 1 */
+
+aside {
+    flex: 3;
+}
+
+ .box2 {
+    border: 1px solid grey;
+
+ }
+ .box3 {
+    border: 1px solid grey;
+    margin-bottom: 30px;
+    
+ }
+ .box4 {
+    border: 1px solid grey;
+    margin-bottom: 30px;
+ 
+ }
+ 
+ .box5 {
+    border: 1px solid grey; 
+}
+
+.card-body2 {
+    padding: 1.5em;
+}
+  
+.card-body3 {
+   padding: 1.5em;
+}
+  
+.card-body4 {
+    padding: 1.5em;
+}
+  
+.card-body5 {
+    padding: 1.5em;
+}
+  
+
+
+.card-body3 {
+    display: flex;
+}
+
+.nlike {
+    display: flex;
+    height: 40px;
+    gap: 1.5em;
+}
+
+/* right side 1 box end */
+.card-body4 {
+    display: flex;
+}
+
+.nic {
+    display: flex;
+    height: 40px;
+    gap: 1.5em;
+}
+/* right isde of box 2 end */
+
+.card-body5 {
+    display: flex;
+}
+
+.ni {
+    display: flex;
+    height: 40px;
+    gap: 1.5em;
+}
+
+.card-body3, .card-body4, .card-body5 {
+    gap:1.5em;
+}
+
+
+/* Buttons */
+.new {
+    width :100px;
+    height: 30px;
+    background-color:gold;
+    box-shadow: 5px 10px;
+    color: black;
+}
+
+
+.ke {
+    width :100px;
+    height: 30px;
+    background-color:gold;
+    box-shadow: 5px 10px;
+    color: black;
+}
+
+
+.btn2 {
+    width :100px;
+    height: 30px;
+    background-color:gold;
+    box-shadow: 5px 10px;
+    color: black;
+}
+
+
+.nick {
+    width :100px;
+    height: 30px;
+    background-color:gold;
+    box-shadow: 5px 10px;
+    color: black;
+}
